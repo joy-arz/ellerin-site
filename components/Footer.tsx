@@ -4,7 +4,7 @@ export function Footer() {
       <div className="container mx-auto max-w-6xl">
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="text-muted-foreground">
-            © 2024 Ellerin Aurelia Chowina. All rights reserved.
+            © 2025 Jony Wijaya. All rights reserved.
           </div>
           
           <div className="flex space-x-6 text-muted-foreground">
